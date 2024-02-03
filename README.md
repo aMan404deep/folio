@@ -1,2 +1,3 @@
 # folio
-This is my portfolio webpage
+Hy , I am Amandeep Singh 
+This is my portfolio webpage.
